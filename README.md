@@ -58,7 +58,7 @@ namespace Lab12
 ผลการทดลอง
 
 
-![](https://github.com/NAPHARAT/LAB-12/blob/master/imgs/1.JPG)
+![](https://github.com/NAPHARAT/LAB-12/blob/master/imgs/1555.JPG)
 ##การ Zoom ภาพ
 การ Zoom ภาพ คือการกำหนดให้ขนาดของพื้นที่แสดงผลต่างไปจากขนาดที่แท้จริงของภาพ (Zoom in, Zoom out) นอกจากนี้เรายังสามารถเลือกส่วนของภาพที่จะแสดงได้อีกด้วย
 
